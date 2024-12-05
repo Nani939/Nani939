@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm SWAMY MUDHIRAJ</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" widht="400" src="/storage/emulated/0/Download/images.mp4">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nani939&label=Profile%20views&color=0e75b6&style=flat" alt="nani939" /> </p>
+
 - 🌱 I’m currently learning **Mern stack development**
 
 - 📫 How to reach me **swamybommakanti00@gmail.com**
