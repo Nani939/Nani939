@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nani939&label=Profile%20views&color=0e75b6&style=flat" alt="nani939" /> </p>
 
-- 🌱 I’m currently learning **Mern stack development**
+- 🌱 I’m currently learning **web developing**
 
 - 📫 How to reach me **swamybommakanti00@gmail.com**
 
